@@ -1,0 +1,3 @@
+/home/limbo/code/c++/SimpleBrowser/build/CMakeFiles/browser.dir
+/home/limbo/code/c++/SimpleBrowser/build/CMakeFiles/edit_cache.dir
+/home/limbo/code/c++/SimpleBrowser/build/CMakeFiles/rebuild_cache.dir
