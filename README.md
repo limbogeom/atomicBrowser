@@ -51,9 +51,8 @@ You can type the following directly into the browser's address bar:
 
 1. **Internal Sandbox Home:** `home` or leave blank to return to the interactive engine presentation page.
 2. **Local Relative Files:** `test.html` or `./docs/index.html` (The browser automatically reads it relative to your working execution path).
-3. **Unix Home Directory Paths:** `~/code/c++/SimpleBrowser/index.html` (The application resolves the native shell environment `~` syntax natively).
-4. **Absolute Local Paths:** `/home/user/workspace/page.html` or `C:/Users/Admin/Desktop/index.html`
-5. **Live Websites:** `example.com` (Will automatically prepend `https://` protocols and attempt to pull socket packets over the web stream).
+3. **Absolute Local Paths:** `/home/user/workspace/page.html` or `C:/Users/Admin/Desktop/index.html`
+4. **Live Websites:** `example.com` (Will automatically prepend `https://` protocols and attempt to pull socket packets over the web stream).
 
 ---
 
